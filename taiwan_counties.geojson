@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "台北市"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            121.5,
+                            25.0
+                        ],
+                        [
+                            121.6,
+                            25.0
+                        ],
+                        [
+                            121.6,
+                            25.1
+                        ],
+                        [
+                            121.5,
+                            25.1
+                        ],
+                        [
+                            121.5,
+                            25.0
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高雄市"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.3,
+                            22.6
+                        ],
+                        [
+                            120.4,
+                            22.6
+                        ],
+                        [
+                            120.4,
+                            22.7
+                        ],
+                        [
+                            120.3,
+                            22.7
+                        ],
+                        [
+                            120.3,
+                            22.6
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
